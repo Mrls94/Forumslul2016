@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106195599096",
+    "firebase_url": "https://forumslul2016.firebaseio.com",
+    "project_id": "forumslul2016",
+    "storage_bucket": "forumslul2016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106195599096:android:acdee41ff6e57083",
+        "android_client_info": {
+          "package_name": "com.example.mbalza.forumslul2016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106195599096-bqgnmu6rm0hm38pbebn3fi0l7i73lmf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbalza.forumslul2016",
+            "certificate_hash": "ABC76068D8B5A1F531D131B5E1F531ED361A1244"
+          }
+        },
+        {
+          "client_id": "106195599096-c26tkdefunap6psosj2cjtetea5rb35l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYCRgVPg7e6-IAGkxbo23TLR_A_yeIlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106195599096-c26tkdefunap6psosj2cjtetea5rb35l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

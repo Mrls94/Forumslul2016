@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Forums lul 2016</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">566053733579941</string>
+    <string name="Signout">Sign Out</string>
+    <!--<string name="default_web_client_id">106195599096-c26tkdefunap6psosj2cjtetea5rb35l.apps.googleusercontent.com</string>-->
+</resources>
